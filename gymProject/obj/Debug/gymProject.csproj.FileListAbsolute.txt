@@ -1,0 +1,24 @@
+c:\users\admin\documents\visual studio 2015\Projects\gymProject\gymProject\bin\Debug\gymProject.exe.config
+c:\users\admin\documents\visual studio 2015\Projects\gymProject\gymProject\bin\Debug\gymProject.exe
+c:\users\admin\documents\visual studio 2015\Projects\gymProject\gymProject\bin\Debug\gymProject.pdb
+c:\users\admin\documents\visual studio 2015\Projects\gymProject\gymProject\obj\Debug\gymProject.csprojResolveAssemblyReference.cache
+c:\users\admin\documents\visual studio 2015\Projects\gymProject\gymProject\obj\Debug\gymProject.Form1.resources
+c:\users\admin\documents\visual studio 2015\Projects\gymProject\gymProject\obj\Debug\gymProject.Properties.Resources.resources
+c:\users\admin\documents\visual studio 2015\Projects\gymProject\gymProject\obj\Debug\gymProject.csproj.GenerateResource.Cache
+c:\users\admin\documents\visual studio 2015\Projects\gymProject\gymProject\obj\Debug\gymProject.exe
+c:\users\admin\documents\visual studio 2015\Projects\gymProject\gymProject\obj\Debug\gymProject.pdb
+c:\users\admin\documents\visual studio 2015\Projects\gymProject\gymProject\obj\Debug\gymProject.Form2.resources
+c:\users\admin\documents\visual studio 2015\Projects\gymProject\gymProject\obj\Debug\gymProject.Form3.resources
+C:\Users\admin\Documents\Visual Studio 2015\Projects\gymProject\gymProject\obj\Debug\gymProject.Form4.resources
+C:\Users\admin\Desktop\SDNDProject\gymProject\gymProject\gymProject\bin\Debug\gymProject.exe.config
+C:\Users\admin\Desktop\SDNDProject\gymProject\gymProject\gymProject\obj\Debug\gymProject.exe
+C:\Users\admin\Desktop\SDNDProject\gymProject\gymProject\gymProject\obj\Debug\gymProject.pdb
+C:\Users\admin\Desktop\SDNDProject\gymProject\gymProject\gymProject\bin\Debug\gymProject.exe
+C:\Users\admin\Desktop\SDNDProject\gymProject\gymProject\gymProject\bin\Debug\gymProject.pdb
+C:\Users\admin\Desktop\SDNDProject\gymProject\gymProject\gymProject\obj\Debug\gymProject.csprojResolveAssemblyReference.cache
+C:\Users\admin\Desktop\SDNDProject\gymProject\gymProject\gymProject\obj\Debug\gymProject.Form1.resources
+C:\Users\admin\Desktop\SDNDProject\gymProject\gymProject\gymProject\obj\Debug\gymProject.Form2.resources
+C:\Users\admin\Desktop\SDNDProject\gymProject\gymProject\gymProject\obj\Debug\gymProject.Form3.resources
+C:\Users\admin\Desktop\SDNDProject\gymProject\gymProject\gymProject\obj\Debug\gymProject.Form4.resources
+C:\Users\admin\Desktop\SDNDProject\gymProject\gymProject\gymProject\obj\Debug\gymProject.Properties.Resources.resources
+C:\Users\admin\Desktop\SDNDProject\gymProject\gymProject\gymProject\obj\Debug\gymProject.csproj.GenerateResource.Cache
