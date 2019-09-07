@@ -29,7 +29,6 @@ namespace gymProject
             DataColumn dc11 = new DataColumn("Year");
             DataColumn dc12 = new DataColumn("Total Amount");
             DataColumn dc13 = new DataColumn("MemberShip Duration");
-            DataColumn dc14 = new DataColumn(" ");
             dt.Columns.Add(dc1);
             dt.Columns.Add(dc2);
             dt.Columns.Add(dc3);
@@ -43,7 +42,6 @@ namespace gymProject
             dt.Columns.Add(dc11);
             dt.Columns.Add(dc12);
             dt.Columns.Add(dc13);
-            dt.Columns.Add(dc14);
             dataGrid.DataSource = dt;
 
             string[] values;
@@ -112,7 +110,14 @@ namespace gymProject
                     {
                         for (int j = 0; j < dataGrid.ColumnCount; j++)
                         {
-                            write.Write(dataGrid.Rows[i].Cells[j].Value.ToString() + ", ");
+                            if (j <= 11)
+                            {
+                                write.Write(dataGrid.Rows[i].Cells[j].Value.ToString() + ", ");
+                            }
+                            else
+                            {
+                                write.Write(dataGrid.Rows[i].Cells[j].Value.ToString());
+                            }
                         }
                         write.WriteLine();
                     }
